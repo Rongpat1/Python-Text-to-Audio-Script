@@ -1,0 +1,26 @@
+Text to Audio Converter
+
+This script converts a text file to an audio file using the `pyttsx3` library.
+
+Installation:
+
+1. Make sure you have Python installed on your system. You can download it from the official Python website: https://www.python.org/downloads/
+
+2. Install the required libraries by running the following command in your terminal or command prompt:
+
+
+Usage:
+
+1. Place the text file you want to convert in the same directory as the `text_to_audio.py` script.
+
+2. Open a terminal or command prompt and navigate to the directory containing the `text_to_audio.py` script.
+
+3. Run the script using the following command:
+
+4. Follow the on-screen instructions to enter the name of the text file you want to convert and the desired name for the output audio file.
+
+5. The script will generate an audio file in WAV format containing the speech synthesized from the text.
+
+6. You can find the output audio file in the same directory as the script.
+
+That's it! You have successfully converted a text file to an audio file using the script.
